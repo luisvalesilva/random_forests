@@ -1,5 +1,5 @@
 # Random Forests
-Notebook study consisting of an overview of decision trees and the random forest ML algorithm.
+Notebook study on decision trees and the random forest ML algorithm.
 
 ## License
 
