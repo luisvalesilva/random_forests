@@ -1,5 +1,5 @@
 # Random Forests
-Notebook study on decision trees and the random forest ML algorithm.
+Study on decision trees and the random forest ML algorithm. See [Jupyter Notebook file](random_forests.ipynb).
 
 ## License
 
